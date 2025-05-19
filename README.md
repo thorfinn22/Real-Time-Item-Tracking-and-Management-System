@@ -1,4 +1,4 @@
-````markdown
+
 # Real-Time Receipt OCR & Verification Pipeline
 
 A complete end-to-end system that:
