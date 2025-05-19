@@ -1,0 +1,7 @@
+filename,Product Name,Order ID,Truck ID,Date,Current Warehouse ID,Destination Warehouse ID,Loading Time,Shipping Dock ID,Loading Bay,Stow Position,Estimated Departure Time,Estimated Arrival Time,Priority Class,Loading Priority,Order Reference,Shipping Carrier
+order_001.png,Acme Widgets,9876541123495878256,,Current Warehouse ID,Destination WarehouseID,,Shipping Dock ID,Loading,,7.30.00 AM,8:00:00 AM,5.00:00 PM,Normal,Order Reference,QFABC124,ABC Logistics
+download.jpeg,,,,29/03/2018 07.35.38 PM,,,,,,,,,,,,
+order_001.png,Acme Widgets,Product Name,TRK 1285,TRK 1285,10/15/2025,WH-01,7.30.00 AM,D84,WH-02,A23,D84,5.00:00 PM,Normal,Order Reference,QFABC124,ABC Logistics
+download.jpeg,,,,29/03/2018 07.35.38 PM,,,,,,,,,,,,
+order_001.png,Acme Widgets,Product Name,TRK 1285,TRK 1285,10/15/2025,WH-01,7.30.00 AM,D84,WH-02,A23,D84,5.00:00 PM,Normal,Order Reference,QFABC124,ABC Logistics
+download.jpeg,,,,29/03/2018 07.35.38 PM,,,,,,,,,,,,

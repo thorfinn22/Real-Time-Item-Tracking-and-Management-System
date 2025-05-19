@@ -1,0 +1,32 @@
+text,confidence,x,y
+WAREHOUSE SHIPPING ORDER,0.999,506.0,122.0
+Product Name,1.0,179.0,206.0
+Acme Widgets,1.0,359.0,207.0
+Order ID,0.935,152.0,248.0
+9876541123495878256,0.475,339.0,247.0
+Iruck ID,0.84,150.0,331.0
+Date,1.0,257.0,331.0
+Current Warehouse ID,0.915,512.0,331.0
+Destination Warehouse ID,0.627,769.0,330.0
+TRK 1285,1.0,156.0,372.0
+10/15/2025,1.0,285.0,372.0
+WH-01,0.915,446.0,373.0
+WH-02,0.578,687.0,373.0
+Loading Time,0.857,172.5,455.0
+Shipping Dock ID,0.985,369.0,457.0
+Loading Bay,0.822,587.5,455.0
+Stow Position,0.878,775.0,455.0
+7.30.00 AM,0.638,163.0,497.0
+D84,0.972,314.0,497.0
+A23,0.989,733.0,497.0
+Estimated Departure Time,0.816,229.0,581.0
+8:00:O0 AM,0.466,404.0,581.0
+Estimated Arrival Time,0.805,213.0,622.0
+5.00:00 PM,0.694,403.0,623.0
+Priority Class,1.0,174.0,706.0
+Normal,0.868,330.0,705.0
+Loading Priority,0.89,181.5,747.0
+Order Reference,1.0,188.0,830.0
+QFABC124,0.999,344.0,830.0
+Shipping Carrier,1.0,185.0,873.0
+ABC Logistics,1.0,356.0,873.0
