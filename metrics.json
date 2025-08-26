@@ -1,0 +1,6 @@
+{
+  "num_images": 10,
+  "num_with_ground_truth": 10,
+  "mean_field_accuracy": 1.0,
+  "mean_overall_accuracy": 1.0
+}
